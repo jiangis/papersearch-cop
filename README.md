@@ -5,7 +5,7 @@ README.md — 简短说明
 /pdfs/metadata.csv — 记录每个 PDF 的元信息
 
 /excerpts/ — 我处理后会写入每篇论文的摘录（每篇一个 .md 或 .txt），文件名与 pdf 对应
-/data/ — 最终的 CSV 文件放在这里（例如 data/hydrogen_leak_papers.csv）
+/data/ — 最终的 CSV 文件放在这里（例如 data/hydrogen_leak_papers.csv）/data/ — 最终的 CSV 文件放在这里（例如 data/hydrogen_leak_papers.csv）
 
 /scripts/ — （可选）如果你要放任何处理脚本
-LICENSE — （可选）许可证
+LICENSE — （可选）许可证   LICENSE — （可选）许可证
